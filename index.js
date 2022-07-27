@@ -1,6 +1,6 @@
 const fs = require("fs");
 const Papa = require("papaparse");
-var firebase = require("firebase/app");
+const firebase = require("firebase/app");
 require("firebase/auth");
 require("firebase/firestore");
 
